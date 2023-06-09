@@ -2,6 +2,7 @@
 -  Proje : Nokia 5110 ekranı ile nabız ölçer
 -  Kodlar :
 -  Word :[ROBOTİK KODLAMA.docx](https://github.com/abdullah1335/abdullah1335/files/11705031/ROBOTIK.KODLAMA.docx)
+-  YouTube Tanıtım : https://youtube.com/shorts/EtRtUhWMlW0?feature=share
 
    
  -----------------------------------------------
